@@ -1,0 +1,374 @@
+<resources>
+    <string name="app_name">"BD Doctors "</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_list_catagorry">Doctors Catagorry</string>
+    <string name="title_activity_list_result">Doctors Info</string>
+
+    <string name="cardiology">
+    <![CDATA[
+    <b><p>Doctor Name:Dr. A.F.M. Saidur Rahman </p></b>
+    <p>Qualification:MBBS, FCPS ( Medicine )</p>
+    <p>Chamber:Rainbow Heart Consultation Center
+    <p>Location:House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka - 1209</p>
+    <p>Phone:+880-2-9115602, 9131207, 8158607 </p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. A.H.M. Waliul Islam </p></b>
+    <p>Qualification:MBBS, PhD. Cardiology (Osaka Univ.), FACC (USA), FSCAI (USA)</p>
+    <p>Chamber:AFMC - Armed Forces Medical College
+    <p>Location:Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229</p>
+    <p>Phone:+880-2-8401661, 8845242, Cell: +880 1841276556 </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. A.K.M. Mohiuddin Bhuiyan </p></b>
+    <p>Qualification:MBBS, MD ( Cardiology ) </p>
+    <p>Chamber:Euro-Bangla Heart Hospital Ltd</p>
+    <p>Location:House No # 5/7, Block # D, Lalmatia, Dhaka, Bangladesh</p>
+    <p>Phone:Phone:+880-2-8159711 </p>
+    ]]>
+    </string>
+    
+    <string name="child_neurology">
+        <![CDATA[
+    <b><p>Doctor Name:Professor Dr. Md. Mizanur Rahman </p></b>
+    <p>Qualification:MBBS, FCPS</p>
+    <p>Designation :	Professor & Head, Child Neurology</p>
+    <p>Chamber:Central Hospital Limited</p>
+    <p>Location:House # 5, Road # 2, Dhaka - 1205</p>
+    <p>Phone:+880 2 9660015-19 Ext - 8806 ( Chamber 1 ) +880 2 7320709, 7310750 ( Chamber 2 ) </p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Narayan Saha</p></b>
+    <p>Qualification: MBBS, FCPS</p>
+    <p>Designation :	Associate Professor, Pediatric Neurologist</p>
+    <p>Chamber:Comfort Diagnostic Centre & Comfort Nursing Home - Green Road
+    <p>Location:Comfort Tower, 167/B, Green Road , Dhanmondi, Dhaka - 1205</p>
+    <p>Phone:+880-2-8124990 (Master Line), 8129667, 8124380 ( Chamber ) </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Shahin Akter</p></b>
+    <p>Qualification :	MBBS, MD</p>
+    <p>Designation :	Associate Professor</p>
+    <p>Chamber:Central Hospital Limited</p>
+    <p>Location:House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</p>
+    <p>Phone:+880-2-9660015-19( Chamber ) </p>
+    ]]>
+    </string>
+
+    <string name="dentist">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. Barkat Ullah </p></b>
+    <p>Qualification:BDS, FAES ( USA ), MAES ( USA )</p>
+    <p>Designation :	Consultant</p>
+    <p>Chamber:Ibn Sina Dental Center</p>
+    <p>Location:House # 47, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka - 1209, Bangladesh</p>
+    <p>Phone:+880-2-9126625-6, 9128835-7 ( Chamber ) </p>
+    <br/>
+    <hr>
+
+    <b><p>Doctor Name:Dr. Clopa Pina Podder</p></b>
+    <p>Qualification:BDS, PGT ( BSMMU )</p>
+    <p>Designation :	Lecturer</p>
+    <p>Chamber:Smile Specialised Dental & Research Center
+    <p>Location:House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka</p>
+    <p>Phone:+880 1914553088 </p>
+
+<br/>
+<hr>
+
+    <b><p>Doctor Name:Dr. H.M. Ferdushi ( Manata ) </p></b>
+    <p>Qualification:B.D.S, PGT ( G. Dentistry ) </p>
+    <p>Designation :	Consultant</p>
+    <p>Chamber:Sudeen Dental Care</p>
+    <p>Location:20, Green Road, Rangs Taz Tower, Dhanmondi, Dhaka - 1205</p>
+    <p>Phone:+880 1716357026 </p>
+    ]]>
+    </string>
+     <string name="diabetes">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. A K M Shaeen Ahmed</p></b>
+    <p>Qualification:MBBS, MCPS (Medicine), FCPS (Medicine)</p>
+    <p>Designation :	Medicine & Diabetes</p>
+    <p>Chamber:Labaid Specialized Hospital - Gulshan Branch</p>
+    <p>Location:House # 13/A, Road # 35, Gulshan # 2, Dhaka-1212</p>
+    <p>Phone:+880-2-8835981-4, 8858943, 8835966, +880 152463101</p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Abdul Ali </p></b>
+    <p>Qualification:MBBS</p>
+    <p>Designation :	Consultant</p>
+    <p>Chamber:MUKTI</p>
+    <p>Location:House #2, Road #49, Gulshan-2, Dhaka-1212</p>
+    <p>Phone:+880-2-9896165 </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Iqbal Ahmed </p></b>
+    <p>Qualification:MBBS, CCD ( Birdem ) </p>
+    <p>Designation :	Specialist</p>
+    <p>Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch</p>
+    <p>Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205</p>
+    <p>Phone:+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1 </p>
+    ]]>
+    </string>
+    <string name="eye">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. Md Arifur Rahman Akonjee </p></b>
+    <p>Qualification:MBBS (D.U), MS (Ophth.)</p>
+    <p>Designation :	Registrar (Eye)</p>
+    <p>Chamber:Rainbow Heart Consultation Center</p>
+    <p>Location:Mymensingh Medical College Hospital, Mymensingh</p>
+    <p>Phone:01818813708</p>
+<br/>
+<hr>
+
+    ]]>
+    </string>
+    <string name="gen_med">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. A N M Zia-Ur- Rahman</p></b>
+    <p>Qualification:MBBS, FCPS. FICS Trained in Gastroenterology (Japan)</p>
+    <p>Designation :	Principal & Professor of Surgery</p>
+    <p>Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch</p>
+    <p>Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205</p>
+    <p>Phone:+880-2-9669480, 9661491-3, </p>
+    <p>Mobile : +880 1553341060-1  </p>
+<br/>
+<hr>
+
+    <b><p>Doctor Name:Professor Dr. A.K.M. Nazrul islam </p></b>
+    <p>Qualification:MBBS, FCPS , MS, FICS</p>
+    <p>Designation :	Professor</p>
+    <p>Chamber:Ibn Sina Medical Imaging Center</p>
+    <p>Location:House# 58, Road#2/A , Dhanmondi, Dhaka</p>
+    <p>Phone:+880-2- 9666497,8610420 ( Chamber )  </p>
+
+<br/>
+<hr>
+
+    <b><p>Doctor Name:Dr. A N M Zia-Ur- Rahman</p></b>
+    <p>Qualification:MBBS, FCPS. FICS Trained in Gastroenterology (Japan) </p>
+    <p>Designation :	Principal & Professor of Surgery</p>
+    <p>Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch</p>
+    <p>Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205</p>
+    <p>Phone:+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  </p>
+    ]]>
+    </string>
+    <string name="hema">
+        <![CDATA[
+    <b><p>Doctor Name:Professor Dr. A. B. M. Yunus</p></b>
+    <p>Qualification:MBBS (India), MPhil Path (Hons), FCPS (Hematology)</p>
+    <p>Designation :	Professor</p>
+    <p>Chamber:Green View Clinic</p>
+    <p>Location:25/3, Green Road, Dhaka - 1205</p>
+    <p>Phone:+880-2-8610313, 9661410</p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Professor Dr. Alamgir kabir</p></b>
+    <p>Qualification:MBBS, FCPS ( Hematology )</p>
+    <p>Designation :	Professor & Head, Department of Hematology</p>
+    <p>Chamber: Ibn Sina Diagnostic & Imaging Center<p>
+    <p>Location:House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh</p>
+    <p>Phone:+880-2-9128835-7, 9126625-6, Cell: +880 1717351631, +880 1913568759 ( Chamber ) </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Professor Dr. M A Khan </p></b>
+    <p>Qualification:MBBS, FCPS ( Hematology ), ASH Member </p>
+    <p>Designation :	Professor and Head, Department of Hematology</p>
+    <p>Chamber:Labaid Cardiac Hospital</p>
+    <p>Location:House # 1, Road # 4, Dhanmondi, Dhaka - 1205</p>
+    <p>Phone:+880-2-8610793 - 8, 9670210 - 3, 8631177 </p>
+    ]]>
+    </string>
+    <string name="hepa">
+        <![CDATA[
+    <b><p>Doctor Name:Professor Dr. A. K. M. Khorshed Alam </p></b>
+    <p>MBBS, FCPS; MHPE</p>
+    <p>Designation :	Professor, Department of Hepatology</p>
+    <p>Chamber:Al-Rajhi Hospital</p>
+    <p>Location:House No. 12 Farmgate Dhaka-1215</p>
+    <p>Phone: 8119229, 9117775 ( Chamber )</a>
+<br/>
+<hr>
+
+    <b><p>Doctor Name:Dr. Fowaz Hussain ( Shuvo )</p></b>
+    <p>Qualification:MBBS, MD</p>
+    <p>Designation :	Specialist , Gastroenterology & Liver Disease</p>
+    <p>Chamber:United Hospital Limited</p>
+    <p>Location:Plot # 15, Road # 71, Gulshan - 2, Dhaka - 1212, Bangladesh</p>
+    <p>Phone:+880-2-8836000, 8836444</p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Professor Dr. Mobin Khan </p></b>
+    <p>Qualification:MBBS, MSc (Quinsland), FCCP (USA) </p>
+    <p>Designation :	Director - The Liver center, Dhaka, Bangladesh</p>
+    <p>Chamber:The Liver Center</p>
+    <p>Location:Mirza Golam Hafiz Road House-64, Road-8/A, Dhanmondi R/A Dhaka-1209, Bangladesh</p>
+    <p>Phone:880-2-8610779 ( Office ) , 01711521664 </p>
+    ]]>
+    </string>
+    <string name="kidny">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. A. H. Hamid Ahmed </p></b>
+    <p>Qualification:MBBS, MD ( Nephrology )</p>
+    <p>Designation :	Assistant Professor</p>
+    <p>Chamber:Kidney-Urology & General Hospital</p>
+    <p>Location:70 Green Road, Fattah Plaza, Dhaka - 1205, Bangladesh</p>
+    <p>Phone:+9664535, 01678089254 ( Chmaber ), Mobile - 01711689609 ( Self )</p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Asia Khanam</p></b>
+    <p>Qualification:MBBS, MD ( Nephrology )</p>
+    <p>Designation :	Associate Professor , Department of Nephrology</p>
+    <p>Chamber:Labaid Specialized Hospital</p>
+    <p>Location:House # 6, Road # 4, Dhanmondi, Dhaka - 1205</p>
+    <p>Phone:+ 880-2-9676356, 8610793-8 </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. H. E. M. Rezwanur Rahman </p></b>
+    <p>Qualification:MBBS (DMC), FCGP (Medicine), MD (Nephrology), FRSH (London) </p>
+    <p>Designation :	Assistant Registrar</p>
+    <p>Chamber:National Diagnostic Complex</p>
+    <p>Location:2/23, Babor Road, Mohammadpur, Dhaka - 1207, Bangladesh</p>
+    <p>Phone:+880-2-8125545</p>
+    ]]>
+    </string>
+    <string name="medcin">
+        <![CDATA[
+    <b><p>Doctor Name:Dr. Amar Biswas </p></b>
+    <p>Qualification:MBBS, DTCD, FRSH( London ), MD</p>
+    <p>Designation :	Consultant</p>
+    <p>Chamber:Dhaka Lab Bhaban</p>
+    <p>Location:1/20, Humayun Road, Mohammadpur, Dhaka</p>
+    <p>Phone:+880-2-8123832</p>
+<br/>
+<hr>
+
+    <b><p>Doctor Name:Dr. M. A. Baset </p></b>
+    <p>Qualification:MBBS, CCD, PGT</p>
+    <p>Designation :	Consultant</p>
+    <p>Chamber:Saic Digital Diagnostic Lab</p>
+    <p>Location:14, Sweden Plaza , Main Road, Mirpur- 1, Dhaka</p>
+    <p>Phone:+ 880-2-9015122-3 </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. M. N. Islam Bhuiyan </p></b>
+    <p>Qualification:MBBS ( DMC ), FMD, FCGP, MAMS ( Vienna ),  </p>
+    <p>Designation :	Associate Professor</p>
+    <p>Chamber:Comfort Diagnostic Centre & Comfort Nursing Home - Green Road</p>
+    <p>Location:Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka- 1205, Bangladesh</p>
+    <p>Phone:+880-2-8124990 (Master Line), 8129667, 8124380</p>
+    ]]>
+    </string>
+    <string name="uro">
+        <![CDATA[
+    <b><p>Doctor Name:Professor Dr. A.K.M. Anwarul Islam </p></b>
+    <p>Qualification:MBBS, FCPS, FRCS, FICS</p>
+    <p>Designation :Professor </p>
+    <p>Chamber:Care Hospital ( BD ) Ltd.</p>
+    <p>Location:Location:2/1-A Iqbal Road, Mohammadpur, Dhaka-1207</p>
+    <p>Phone:+880-2-9134407, 9132548, 8124974, 8110864 </p>
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. A.T.M. Aman Ullah </p></b>
+    <p>Qualification:MBBS, MS ( Urology )</p>
+    <p>Designation :Associate Professor</p>
+    <p>Chamber:Kidney & Urology Hospital Pvt. Ltd. ( Khul )</p>
+    <p>Location:70 Green Road, Fattah Plaza, Dhaka - 1205, Bangladesh</p>
+    <p>Phone:+880-2-9664535, 9673739, 01926845462, 01678089254 ( Chmaber )  </p>
+
+<br/>
+<hr>
+    <b><p>Doctor Name:Dr. Ahsan Kabir</p></b>
+    <p>Qualification:MBBS, MCPS </p>
+    <p>Designation :Consultant</p>
+    <p>Chamber:Monowara Hospital (pvt.) Ltd.</p>
+    <p>Location:54, Siddeshwari Road, Dhaka- 1217</p>
+    <p>Phone:+880-2-9355801-2, 9360331-2 </p>
+    ]]>
+    </string>
+
+    <string name="cancer">
+        <![CDATA[
+    <b><p>Doctor Name: Dr. A K M Hamidur Rahman</p></b>
+    <p>Qualification: MBBS, DMRT </p>
+    <p>Designation : Associate Professor</p>
+    <p>Chamber: Ibn Sina Diagnostic & Imaging Center</p>
+    <p>Location: House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209</p>
+    <p>Phone: +880-2-9128835-7, 9126625-6</p>
+
+    <b><p>Doctor Name: Professor Dr. A.B.M.F. Karim</p></b>
+    <p>Qualification: MBBS, FRCR, PhD </p>
+    <p>Designation : Professor & Chairman</p>
+    <p>Chamber: Japan Bangladesh Friednship Hospital</p>
+    <p>Location: 55, Satmasjid Road ( Zigatola Bus Stand ), Dhanmondi, Dhaka - 1209</p>
+    <p>Phone: +880-2-9672277, 9676161</p>
+
+    <b><p>Doctor Name: Dr. Ehteshamul Haque </p></b>
+    <p>Qualification: MBBS, BCS ( Health ), M.Phil(Radiotherapy)  </p>
+    <p>Designation : Cancer Specialist </p>
+    <p>Chamber: Plot no - M-1/C, Section - 14, Mirpur, Dhaka - 1206</p>
+    <p>Location: House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209</p>
+    <p>Phone: +880-2-8113010, 8118522 </p>
+
+        ]]>
+    </string>
+
+    <string name="gyny">
+        <![CDATA[
+    <b><p>Doctor Name: Dr. Amena Majid</p></b>
+    <p>Qualification: MBBS, FCPS ( Gyne. ), MMED ( UK ) </p>
+    <p>Designation : Ex. Professor of Gyne. & Obs</p>
+    <p>Chamber: Japan Bangladesh Friendship Hospital</p>
+    <p>Location: 5, Satmasjid Road ( Zigatola Bus Stand ), Dhaka - 1209</p>
+    <p>Phone: +880-2-9672277, 9676161</p>
+
+    <b><p>Doctor Name: Dr. Amena Sharmin</p></b>
+    <p>Qualification: MBBS, FRSH </p>
+    <p>Designation : Lecturer</p>
+    <p>Chamber: Liver, Gastric, General Hospital & Research Institute</p>
+    <p>Location: House No # 100/1, Road No # 11/A, Satmosjid Road (opposite star kabab), Dhanmondi R/A, Dhaka-1209</p>
+    <p>Phone: +880 1720250291</p>
+
+    <b><p>Doctor Name: Dr. Amreen Sadika Sayeed </p></b>
+    <p>Qualification: MBBS, DGO ( DU ) </p>
+    <p>Designation : Consultant </p>
+    <p>Chamber: Ibrahim General Hospital & DCEC - Dhanmondi</p>
+    <p>Location: House # 42, Road # 10/A, Dhanmondi R/A, Dhaka - 1209</p>
+    <p>Phone: +880-2-9146357 </p>
+
+        ]]>
+    </string>
+
+    <string name="liver">
+        <![CDATA[
+    <b><p>Doctor Name: Professor Dr. Mahbub H Khan</p></b>
+    <p>Qualification: MBBS,PhD-Liver Med (sydney) FAMS</p>
+    <p>Designation : Head of Gastrointestial and Hepatic Disorder</p>
+    <p>Chamber: Trauma Center</p>
+    <p>Location: 22/8/A, Shamoli, Mirpur Road</p>
+    <p>Phone: +880-2-8116969, 8130508</p>
+
+    <b><p>Doctor Name: Dr. A.N.M. Zia-Ur-Rahman</p></b>
+    <p>Qualification: MBBS, FCPS, FICS, Liver & Gastroenterology </p>
+    <p>Designation : Assistant Professor.</p>
+    <p>Chamber: Omar-Sultan Medical Services Ltd</p>
+    <p>Location: 5H-33. R-8, Dhanmondi, Dhaka-1205</p>
+    <p>Phone: 9123621, 9123622</p>
+
+
+
+        ]]>
+    </string>
+
+
+</resources>
