@@ -1,1 +1,1 @@
-# BD-Doctors Androidd App
+# BD-Doctors Android App
